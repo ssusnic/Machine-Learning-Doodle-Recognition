@@ -19,7 +19,7 @@ In this part, we just create a new Phaser Game object and then build the basic g
 `ui.js` - the user interface class to allow users an interaction with the game
 
 Links:  
-* [Tutorial & Game - Part 1](http://www.askforgametask.com/tutorial/machine-learning-doodle-recognition-part1)  
+* [Tutorial & Game - Part 1](http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
 * [Video - Episode 1](https://www.youtube.com/watch?v=aeWmdojEJf0)
 
 
