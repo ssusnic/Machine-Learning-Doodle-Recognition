@@ -14,13 +14,23 @@ This project is divided into 8 parts. Each part includes a video and fully-comme
 
 ## Part 1: Introduction 
 
-In this part, we just create a new Phaser Game object and then build the basic game structure using two source files:  
-`main.js` - the main program with the main loop where the entire game logic will be implemented  
-`ui.js` - the user interface class to allow users an interaction with the game
+In this part, we just create a new Phaser Game object and build the basic game structure. 
 
-Links:  
-* [Tutorial & Game - Part 1](http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
+Revision history:  
+
+`main.js` 
+- created the Main Program with the main loop where the entire game logic will be implemented
+- defined all substates of the main state
+
+`ui.js`  
+- created a new User Interface class to allow users an interaction with the game
+- created 'Play More Games' button with the corresponding trigger function
+- created text object for showing messages in the status-bar
+
+Links: 
+* [Tutorial & Game - Chapter 1](http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
 * [Video - Episode 1](https://www.youtube.com/watch?v=aeWmdojEJf0)
+
 
 
 ## Part 2: Getting Data
@@ -28,12 +38,12 @@ Links:
 not completed
 
 
-## Part 3: Building Model
+## Part 3: Building the Model
 
 not completed
 
 
-## Part 4: Training Model
+## Part 4: Training the Model
 
 not completed
 
