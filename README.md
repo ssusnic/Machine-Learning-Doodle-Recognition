@@ -5,7 +5,7 @@ Step by step tutorial series on making a game like **Quick, Draw!**. It is an on
 To show the process of developing this game, here is the source code for the **Doodle Predictor** game made in HTML5 using [Phaser 2 framework](http://phaser.io/) and [TensorFlow.js library](https://js.tensorflow.org/) for machine learning. To recognize doodles, the game uses a **Convolutional Neural Network (CNN)** model trained on the small subset of the [Quick Draw Dataset](https://quickdraw.withgoogle.com/data).
 
 To get a quick insight into the project, watch the video trailer:  
-[https://www.youtube.com/watch?v=aeWmdojEJf0](https://www.youtube.com/watch?v=aeWmdojEJf0)
+[https://www.youtube.com/watch?v=ZsIs1SB6dlo](https://www.youtube.com/watch?v=ZsIs1SB6dlo)
   
 ![Doodle Predictor Screenshot](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Doodle-Recognition/master/screenshots/machine_learning_doodle_s1_640x360.png "Doodle Predictor Screenshot")
 
@@ -24,8 +24,8 @@ Revision history:
 
 `ui.js`  
 - created a new User Interface class to allow users an interaction with the game
-- created 'Play More Games' button with the corresponding trigger function
-- created text object for showing messages in the status-bar
+- added 'Play More Games' button with the corresponding trigger function
+- added text object for showing messages in the status-bar
 
 Links: 
 * [Tutorial & Game - Chapter 1](http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
