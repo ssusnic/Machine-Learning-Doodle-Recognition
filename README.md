@@ -6,10 +6,11 @@ To show the process of developing this game, here is the source code for the **D
 
 To get a quick insight into the project, watch the video trailer:  
 [https://www.youtube.com/watch?v=kLF5vx5Ya1A](https://www.youtube.com/watch?v=kLF5vx5Ya1A)
-  
-![Doodle Predictor Screenshot](https://raw.githubusercontent.com/ssusnic/Machine-Learning-Doodle-Recognition/master/screenshots/machine_learning_doodle_s1_640x360.png "Doodle Predictor Screenshot")
 
 This project is divided into 8 parts. Each part includes a video and fully-commented source code so you can follow game development step by step.
+
+Here is a game screenshot after completing the last part:
+![Doodle Predictor Screenshot](https://github.com/ssusnic/Machine-Learning-Doodle-Recognition/raw/master/screenshots/machine_learning_doodle_s1_640x360.png "Doodle Predictor Screenshot")
 
 Check out the full series and run the game starting with the part 1:  
 http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1
