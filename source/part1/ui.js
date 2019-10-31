@@ -1,25 +1,32 @@
 /***********************************************************************************
 *
 * PROGRAM:
-*	Doodle Predictor
-*
-* DESCRIPTION:
-*	Recognizing Doodles
-*	using Deep Machine Learning
-*	with Convolutional Neural Network
-*
-* LIBRARIES:
-*	phaser.min.js - Phaser 2 Framework
-*	tensorflow.js - TensorFlow Library
+*	Doodle Predictor (Part 1)
 *
 * MODULE:	
 *	ui.js - UI Class (User Interface)
-* 
+*
+* EXTERNAL LIBRARIES:
+*	phaser.min.js - Phaser 2 Framework
+*	tensorflow.js - TensorFlow Library
+*
+* DESCRIPTION:
+*   Recognizing Doodles using Deep Machine Learning with Convolutional Neural Network
+*
+* PART:
+*	1. Project Setup
+*
+* LINKS
+*	@website	https://www.askforgametask.com
+*	@videos		https://www.youtube.com/ssusnic
+*	@repos		https://www.github.com/ssusnic
+*
 * ABOUT:
 *	@author		Srdjan Susnic
 *	@copyright	2019 Ask For Game Task
-*	@website	http://www.askforgametask.com
 *
+*	This program comes with ABSOLUTELY NO WARRANTY.
+* 
 /***********************************************************************************/
 
 // ---------------------------------------------------------------------------------
