@@ -67,7 +67,7 @@ To play this game locally, you need to run it in a browser using a local web ser
   to run the game of the part 1
 
 
-## Part 1: Introduction 
+## Part 1: Project Setup 
 
 In this part, we just create a new Phaser Game object and build the basic game structure. 
 
@@ -91,17 +91,57 @@ Links:
 
 ## Part 2: Getting Data
 
-Coming soon...
+In this part, we load three datasets (car, fish and snowman) and split them into training and test data.
+
+Updates:  
+
+`main.js`
+- added routines for opening and loading datasets
+
+`ui.js`
+- no changes
+
+`cnn.js`
+- created a new CNN class for implementing a Convolutional Neural Network model
+- added function for splitting dataset into training and test data
 
 
 ## Part 3: Building the Model
 
-Coming soon...
+In this part, we build a Convolutional Neural Network (CNN) model for image classification.
+
+Updates:  
+
+`main.js`
+- minor changes
+
+`ui.js`
+- no changes
+
+`cnn.js`
+- added code for creating a Convolutional Neural Network (CNN) model
 
 
 ## Part 4: Training the Model
 
-Coming soon...
+In this part, we train, test and evaluate the Convolutional Neural Network (CNN) model. Additionally, we plot graphs of the model's Loss and Accuracy during training.
+
+Updates:  
+
+`main.js`
+- added logic for starting and executing the training in the main loop
+- added actions that must be performed on clicking "Train More" button
+
+`ui.js`
+- created bitmaps for displaying loss and accuracy graphs
+- created "Train More" button with the corresponding trigger function
+- added function for plotting graphs
+
+`cnn.js`
+- defined CNN parameters
+- added function for executing the training loop
+- added function for fetching Training Batch
+- added function for fetching Test Batch
 
 
 ## Part 5: Predicting Samples
