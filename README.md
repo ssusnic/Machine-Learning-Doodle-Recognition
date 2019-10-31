@@ -62,6 +62,8 @@ To play this game locally, you need to run it in a browser using a local web ser
 	**\data** (with datasets)  
 	**\libs** (with libraries)  
 	**\part1** (with source files of the part 1)  
+	...
+	**\part4** (with source files of the part 4)
 
 7. open a web browser and navigate to the **http\://localhost:\<port\>/doodle_predictor/part1**  
   to run the game of the part 1
