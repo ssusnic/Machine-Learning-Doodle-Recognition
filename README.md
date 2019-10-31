@@ -16,13 +16,14 @@ To classify drawings, we will implement an **Artificial Intelligence (AI)** base
 
 To avoid loading big data files, the model will be trained on a small subset of the [Quick Draw Dataset](https://quickdraw.withgoogle.com/data).
 
-Here is a screenshot of the fully completed Doodle Predictor game:
+Here is a screenshot of the fully completed Doodle Predictor game:  
+  
 ![Doodle Predictor Screenshot](https://github.com/ssusnic/Machine-Learning-Doodle-Recognition/raw/master/screenshots/machine_learning_doodle_s1_640x360.png "Doodle Predictor Screenshot")
 
 Play Doodle Predictor here:  
 http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-intro
 
-Read articles about the full series here:  
+Start reading articles about the full series here:  
 http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1 
 
 Visit us:  
@@ -34,14 +35,14 @@ http://www.askforgametask.com
 
 This project is divided into the following 8 parts:
 
-Part 1: Project Setup
-Part 2: Getting Data
-Part 3: Building the Model
-Part 4: Training the Model
-Part 5: Predicting Samples
-Part 6: Drawing Doodles
-Part 7: Recognizing Doodles
-Part 8: Adding More Doodle Categories
+* Part 1: Project Setup  
+* Part 2: Getting Data  
+* Part 3: Building the Model  
+* Part 4: Training the Model  
+* Part 5: Predicting Samples  
+* Part 6: Drawing Doodles  
+* Part 7: Recognizing Doodles  
+* Part 8: Adding More Doodle Categories  
 
 Each part contains a video and a fully commented source code so you can easily follow the game development step by step.
 
@@ -70,7 +71,7 @@ To play this game locally, you need to run it in a browser using a local web ser
 
 In this part, we just create a new Phaser Game object and build the basic game structure. 
 
-Revision history:  
+Updates:  
 
 `main.js`
 - created the Main Program with the main state
@@ -84,8 +85,8 @@ Revision history:
 - created text object for showing messages in the status-bar
 
 Links: 
-* [Tutorial & Game - Chapter 1](http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
-* [Video - Episode 1](https://www.youtube.com/watch?v=kLF5vx5Ya1A)
+* [Article (Part 1)](http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
+* [Video (Part 1)](https://www.youtube.com/watch?v=kLF5vx5Ya1A)
 
 
 ## Part 2: Getting Data
