@@ -10,7 +10,7 @@ To get a quick insight into the project, watch the video trailer:
 
 ## Tutorial Info
 
-The game is made in HTML5 using [Phaser 2 framework](http://phaser.io/) and [TensorFlow.js library](https://js.tensorflow.org/) for machine learning. 
+The game is made in HTML5 using [Phaser 2 framework](https://phaser.io/) and [TensorFlow.js library](https://js.tensorflow.org/) for machine learning. 
 
 To classify drawings, we will implement an **Artificial Intelligence (AI)** based on **Machine Learning (ML)** and **Convolutional Neural Network (CNN)**.
 
@@ -21,13 +21,13 @@ Here is a screenshot of the fully completed Doodle Predictor game:
 ![Doodle Predictor Screenshot](https://github.com/ssusnic/Machine-Learning-Doodle-Recognition/raw/master/screenshots/machine_learning_doodle_s1_640x360.png "Doodle Predictor Screenshot")
 
 Play Doodle Predictor here:  
-http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-intro
+https://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-intro
 
 Start reading articles about the full series here:  
-http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1 
+https://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1 
 
 Visit us:  
-http://www.askforgametask.com
+https://www.askforgametask.com
 
 
 
@@ -86,7 +86,7 @@ Updates:
 - created text object for showing messages in the status-bar
 
 Links: 
-* [Article (Part 1)](http://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
+* [Article (Part 1)](https://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
 * [Video (Part 1)](https://www.youtube.com/watch?v=kLF5vx5Ya1A)
 
 
