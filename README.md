@@ -21,10 +21,10 @@ Here is a screenshot of the fully completed Doodle Predictor game:
 ![Doodle Predictor Screenshot](https://github.com/ssusnic/Machine-Learning-Doodle-Recognition/raw/master/screenshots/machine_learning_doodle_s1_640x360.png "Doodle Predictor Screenshot")
 
 Play Doodle Predictor here:  
-https://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-intro
+https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-intro/
 
 Start reading articles about the full series here:  
-https://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1 
+https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/
 
 Visit us:  
 https://www.askforgametask.com
@@ -86,7 +86,7 @@ Updates:
 - created text object for showing messages in the status-bar
 
 Links: 
-* [Article (Part 1)](https://www.askforgametask.com/tutorial/doodle-recognition-convolutional-neural-network-part1)  
+* [Article (Part 1)](https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/)  
 * [Video (Part 1)](https://www.youtube.com/watch?v=kLF5vx5Ya1A)
 
 
