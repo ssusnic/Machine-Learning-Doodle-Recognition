@@ -87,7 +87,7 @@ Updates:
 
 Links: 
 * [Article (Part 1)](https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/)  
-* [Video (Part 1)](https://www.youtube.com/watch?v=kLF5vx5Ya1A)
+* [Video (Part 1)](https://youtu.be/-iBBWDJrUEs)
 
 
 ## Part 2: Getting Data
