@@ -86,8 +86,8 @@ Updates:
 - created text object for showing messages in the status-bar
 
 Links: 
-* [Article (Part 1)](https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/)  
-* [Video (Part 1)](https://youtu.be/-iBBWDJrUEs)
+* [Read Article - Part 1](https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/)  
+* [Watch Video - Episode 2, Part 1](https://youtu.be/-iBBWDJrUEs)
 
 
 ## Part 2: Getting Data
