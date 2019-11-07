@@ -7,7 +7,7 @@ This tutorial series shows the whole process of developing the same game called 
 To get a quick insight into the project, watch the following videos:  
 [Episode #1: Introduction](https://youtu.be/kLF5vx5Ya1A)  
 [Episode #2: Parts 1-4](https://youtu.be/-iBBWDJrUEs)  
-[Episode #3: Parts 5-8](https://youtu.be/rCogVEJe3s)  
+[Episode #3: Parts 5-8](https://youtu.be/rCogVEJe3sU)  
 
 
 ## Tutorial Info
