@@ -31,23 +31,6 @@ https://www.askforgametask.com
 
 
 
-## Tutorial Topics
-
-This project is divided into the following 8 parts:
-
-* Part 1: Project Setup  
-* Part 2: Getting Data  
-* Part 3: Building the Model  
-* Part 4: Training the Model  
-* Part 5: Predicting Samples  
-* Part 6: Drawing Doodles  
-* Part 7: Recognizing Doodles  
-* Part 8: Adding More Doodle Categories  
-
-Each part contains a video and a fully commented source code so you can easily follow the game development step by step.
-
-
-
 ## Running the Game
 
 To play this game locally, you need to run it in a browser using a local web server as follows:
@@ -68,22 +51,30 @@ To play this game locally, you need to run it in a browser using a local web ser
   to run the game of the part 1
 
 
+## Tutorial Topics
+
+This project is divided into the following 8 parts:
+
+* Part 1: Project Setup  
+* Part 2: Getting Data  
+* Part 3: Building the Model  
+* Part 4: Training the Model  
+* Part 5: Predicting Samples  
+* Part 6: Drawing Doodles  
+* Part 7: Recognizing Doodles  
+* Part 8: Adding More Doodle Categories  
+
+Each part contains a video and a fully commented source code so you can easily follow the game development step by step.
+
+
+
 ## Part 1: Project Setup 
 
-In this part, we just create a new Phaser Game object and build the basic game structure. 
-
-Updates:  
-
-`main.js`
-- created the Main Program with the main state
-- defined all substates of the main state
-- added the main loop where the entire game logic will be implemented
-
-
-`ui.js`
-- created a new User Interface class to allow users an interaction with the game
-- created 'Play More Games' button with the corresponding trigger function
-- created text object for showing messages in the status-bar
+Tasks: 
+- creating the Main Program with the main state
+- defining all substates of the main state
+- building the basic game structure with the main loop where the entire game logic will be implemented
+- creating a new User Interface class to allow users an interaction with the game
 
 Links: 
 * [Read Article - Part 1](https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/)  
@@ -92,75 +83,54 @@ Links:
 
 ## Part 2: Getting Data
 
-In this part, we load three datasets (car, fish and snowman) and split them into training and test data.
-
-Updates:  
-
-`main.js`
-- added routines for opening and loading datasets
-
-`ui.js`
-- no changes
-
-`cnn.js`
-- created a new CNN class for implementing a Convolutional Neural Network model
-- added function for splitting dataset into training and test data
+Tasks: 
+- creating a new CNN class for implementing a Convolutional Neural Network model
+- loading three datasets (car, fish and snowman)
+- splitting datasets into training and test data
+- shuffling data
 
 
 ## Part 3: Building the Model
 
-In this part, we build a Convolutional Neural Network (CNN) model for image classification.
-
-Updates:  
-
-`main.js`
-- minor changes
-
-`ui.js`
-- no changes
-
-`cnn.js`
-- added code for creating a Convolutional Neural Network (CNN) model
+Tasks:  
+- creating a sequential CNN model
+- adding layers to the model
+- compiling the model
 
 
 ## Part 4: Training the Model
 
-In this part, we train, test and evaluate the Convolutional Neural Network (CNN) model. Additionally, we plot graphs of the model's Loss and Accuracy during training.
-
-Updates:  
-
-`main.js`
-- added logic for starting and executing the training in the main loop
-- added actions that must be performed on clicking "Train More" button
-
-`ui.js`
-- created bitmaps for displaying loss and accuracy graphs
-- created "Train More" button with the corresponding trigger function
-- added function for plotting graphs
-
-`cnn.js`
-- defined CNN parameters
-- added function for executing the training loop
-- added function for fetching Training Batch
-- added function for fetching Test Batch
+Tasks: 
+- fetching batches of data
+- training, testing and evaluating the model
+- plotting graphs of the model loss and accuracy during training
 
 
 ## Part 5: Predicting Samples
 
-Coming soon...
+Tasks: 
+- fetching batches of samples 
+- predicting fetched samples
 
 
 ## Part 6: Drawing Doodles
 
-Coming soon...
+Tasks:
+- creating a new Painter class to allow users to draw their own doodles with the mouse
+- defining painting objects: drawing area, bitmaps, pencil
+- adding a function for drawing a smooth line between two points using quadratic curves
 
 
 ## Part 7: Recognizing Doodles
 
-Coming soon...
+Tasks:
+- resizing doodle drawing to the required size of 28x28
+- normalizing array of pixels before passing it as the input of the CNN model
+- predicting doodle
 
 
 ## Part 8: Adding More Doodle Categories
 
-Coming soon...
+Tasks:
+- adding 10 doodle categories
 
