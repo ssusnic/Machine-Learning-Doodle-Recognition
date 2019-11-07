@@ -23,7 +23,7 @@ Here is a screenshot of the fully completed Doodle Predictor game:
 Play Doodle Predictor here:  
 https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-intro/
 
-Start reading articles about the full series here:  
+Read articles starting with the part 1:  
 https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/
 
 Visit us:  
