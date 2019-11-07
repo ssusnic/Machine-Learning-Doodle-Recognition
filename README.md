@@ -4,8 +4,10 @@ Step by step tutorial series on making a game like **Quick, Draw!**. It is an on
 
 This tutorial series shows the whole process of developing the same game called **Doodle Predictor** that runs directly in the browser.
 
-To get a quick insight into the project, watch the video trailer:  
-[https://www.youtube.com/watch?v=kLF5vx5Ya1A](https://www.youtube.com/watch?v=kLF5vx5Ya1A)
+To get a quick insight into the project, watch the following videos:  
+[Episode #1: Introduction](https://youtu.be/kLF5vx5Ya1A)  
+[Episode #2: Parts 1-4](https://youtu.be/-iBBWDJrUEs)  
+[Episode #3: Parts 5-8](https://youtu.be/rCogVEJe3s)  
 
 
 ## Tutorial Info
