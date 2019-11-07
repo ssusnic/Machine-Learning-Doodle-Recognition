@@ -57,7 +57,7 @@ To play this game locally, you need to run it in a browser using a local web ser
 
 This project is divided into the following 8 parts:
 
-* Part 1: Project Setup  
+* [Part 1: Project Setup](https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/)
 * Part 2: Getting Data  
 * Part 3: Building the Model  
 * Part 4: Training the Model  
@@ -72,20 +72,14 @@ Each part contains a video and a fully commented source code so you can easily f
 
 ## Part 1: Project Setup 
 
-Tasks: 
 - creating the Main Program with the main state
 - defining all substates of the main state
 - building the basic game structure with the main loop where the entire game logic will be implemented
 - creating a new User Interface class to allow users an interaction with the game
 
-Links: 
-* [Read Article - Part 1](https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/)  
-* [Watch Video - Episode 2, Part 1](https://youtu.be/-iBBWDJrUEs)
-
 
 ## Part 2: Getting Data
-
-Tasks: 
+ 
 - creating a new CNN class for implementing a Convolutional Neural Network model
 - loading three datasets (car, fish and snowman)
 - splitting datasets into training and test data
@@ -93,8 +87,7 @@ Tasks:
 
 
 ## Part 3: Building the Model
-
-Tasks:  
+ 
 - creating a sequential CNN model
 - adding layers to the model
 - compiling the model
@@ -102,7 +95,6 @@ Tasks:
 
 ## Part 4: Training the Model
 
-Tasks: 
 - fetching batches of data
 - training, testing and evaluating the model
 - plotting graphs of the model loss and accuracy during training
@@ -110,14 +102,12 @@ Tasks:
 
 ## Part 5: Predicting Samples
 
-Tasks: 
 - fetching batches of samples 
 - predicting fetched samples
 
 
 ## Part 6: Drawing Doodles
 
-Tasks:
 - creating a new Painter class to allow users to draw their own doodles with the mouse
 - defining painting objects: drawing area, bitmaps, pencil
 - adding a function for drawing a smooth line between two points using quadratic curves
@@ -125,7 +115,6 @@ Tasks:
 
 ## Part 7: Recognizing Doodles
 
-Tasks:
 - resizing doodle drawing to the required size of 28x28
 - normalizing array of pixels before passing it as the input of the CNN model
 - predicting doodle
@@ -133,6 +122,5 @@ Tasks:
 
 ## Part 8: Adding More Doodle Categories
 
-Tasks:
 - adding 10 doodle categories
 
