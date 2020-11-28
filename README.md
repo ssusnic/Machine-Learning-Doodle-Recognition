@@ -1,36 +1,30 @@
 # Machine Learning: Doodle Recognition with Convolutional Neural Network
 
-Step by step tutorial series on making a game like **Quick, Draw!**. It is an online game that challenges players to draw a doodle and then artificial intelligence guesses what the drawings represent.
+A Javascript Machine Learning Game Tutorial on making a game like **Quick, Draw!**. It is an online game that challenges players to draw a doodle and then artificial intelligence guesses what the drawings represent.
 
-This tutorial series shows the whole process of developing the same game called **Doodle Predictor** that runs directly in the browser.
+This repo contains source code for implementing this game step by step.
 
-To get a quick insight into the project, watch the following videos:  
-[Episode #1: Introduction](https://youtu.be/kLF5vx5Ya1A)  
-[Episode #2: Parts 1-4](https://youtu.be/-iBBWDJrUEs)  
-[Episode #3: Parts 5-8](https://youtu.be/rCogVEJe3sU)  
+Here is the video in which I explained the entire project:  
+https://youtu.be/AsYczuDBGp0  
 
 
-## Tutorial Info
+## Project Info
 
 The game is made in HTML5 using [Phaser 2 framework](https://phaser.io/) and [TensorFlow.js library](https://js.tensorflow.org/) for machine learning. 
 
-To classify drawings, we will implement an **Artificial Intelligence (AI)** based on **Machine Learning (ML)** and **Convolutional Neural Network (CNN)**.
+To classify images, I implemented an **Artificial Intelligence (AI)** based on **Machine Learning (ML)** and **Convolutional Neural Network (CNN)**.
 
-To avoid loading big data files, the model will be trained on a small subset of the [Quick Draw Dataset](https://quickdraw.withgoogle.com/data).
+The model was trained on a small subset of the [Quick Draw Dataset](https://quickdraw.withgoogle.com/data).
 
-Here is a screenshot of the fully completed Doodle Predictor game:  
+Here is a screenshot of the fully completed project:  
   
 ![Doodle Predictor Screenshot](https://github.com/ssusnic/Machine-Learning-Doodle-Recognition/raw/master/screenshots/machine_learning_doodle_s1_640x360.png "Doodle Predictor Screenshot")
 
-Play Doodle Predictor here:  
+To play the game online, visit my official website:  
 https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-intro/
 
-Read articles starting with the part 1:  
-https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/
-
-Visit us:  
+To read more tutorials and play my other games, check the homepage:  
 https://www.askforgametask.com
-
 
 
 ## Running the Game
@@ -53,24 +47,13 @@ To play this game locally, you need to run it in a browser using a local web ser
   to run the game of the part 1
 
 
-## Tutorial Topics
+## Parts of the Project
 
-This project is divided into the following 8 parts:
-
-* [Part 1: Project Setup](https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-part1/)
-* Part 2: Getting Data  
-* Part 3: Building the Model  
-* Part 4: Training the Model  
-* Part 5: Predicting Samples  
-* Part 6: Drawing Doodles  
-* Part 7: Recognizing Doodles  
-* Part 8: Adding More Doodle Categories  
-
-Each part contains a video and a fully commented source code so you can easily follow the game development step by step.
+This project is divided into 8 parts. Each part contains a fully commented source code so you can easily follow the game development step by step. 
+Here is a short description of each part.
 
 
-
-## Part 1: Project Setup 
+## Part 1: Setup 
 
 - creating the Main Program with the main state
 - defining all substates of the main state
