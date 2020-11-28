@@ -1,6 +1,6 @@
-# Machine Learning: Doodle Recognition with Convolutional Neural Network
+# Machine Learning: How to make Quick Draw game using Convolutional Neural Network
 
-A Javascript Machine Learning Game Tutorial on making a game like **Quick, Draw!**. It is an online game that challenges players to draw a doodle and then artificial intelligence guesses what the drawings represent.
+A Javascript Machine Learning Project on making a game like **Quick, Draw!**. It is an online game that challenges players to draw a doodle and then artificial intelligence guesses what the drawings represent.
 
 This repo contains source code for implementing this game step by step.
 
@@ -21,7 +21,7 @@ Here is a screenshot of the fully completed project:
 ![Doodle Predictor Screenshot](https://github.com/ssusnic/Machine-Learning-Doodle-Recognition/raw/master/screenshots/machine_learning_doodle_s1_640x360.png "Doodle Predictor Screenshot")
 
 To play the game online, visit my official website:  
-https://www.askforgametask.com/tutorial/machine-learning/image-classifier-doodle-recognition-cnn-intro/
+https://www.askforgametask.com/tutorial/machine-learning/quick-draw/
 
 To read more tutorials and play my other games, check the homepage:  
 https://www.askforgametask.com
@@ -49,8 +49,10 @@ To play this game locally, you need to run it in a browser using a local web ser
 
 ## Parts of the Project
 
-This project is divided into 8 parts. Each part contains a fully commented source code so you can easily follow the game development step by step. 
-Here is a short description of each part.
+This project is divided into 8 parts.  
+Each part contains a fully commented source code so you can easily follow the game development step by step.  
+
+Here are short descriptions of each part:
 
 
 ## Part 1: Setup 
