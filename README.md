@@ -49,8 +49,7 @@ To play this game locally, you need to run it in a browser using a local web ser
 
 ## Parts of the Project
 
-This project is divided into 8 parts.  
-Each part contains a fully commented source code so you can easily follow the game development step by step.  
+This project is divided into 8 parts. Each part contains a fully commented source code so you can easily follow the game development step by step.  
 
 Here are short descriptions of each part:
 
